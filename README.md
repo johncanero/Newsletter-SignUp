@@ -3,6 +3,10 @@ This is the Newsletter-SignUp Project powered by Heroku: Cloud Application Platf
 Guided by Web Development BootCamp by Angela Yu.
 
 Project by: John Cañero
+
+Afterword: Project Files were not uploaded due to protection of API keys. 
+
 See work at: https://serene-glacier-70792.herokuapp.com/
 
 <img src="images/desktopView - NewsletterSignUp.png" alt="Newsletter-SignUp.jpg">
+
