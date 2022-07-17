@@ -6,7 +6,7 @@ Project by: John Cañero
 
 Afterword: Project Files were not uploaded due to protection of API keys. 
 
-See work at: https://serene-glacier-70792.herokuapp.com/
+See work at: https://newsletter-signup-jam-heroku.herokuapp.com/
 
 <img src="images/desktopView - NewsletterSignUp.png" alt="Newsletter-SignUp.jpg">
 
